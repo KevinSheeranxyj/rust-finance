@@ -1,5 +1,4 @@
 # rust-finance
-Finance related Rust functions (e.g. exchange rates, VAT number checking, ...)
 
 This is a [rust]() library which contains finance related functions.
 
